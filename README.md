@@ -23,7 +23,7 @@ Constructed Short Answers Assessment in Tutorial Dialogue Context</a>. ACL.
 <img src="https://i.postimg.cc/qB1tFCrg/capsnet.jpg" alt="Bi-GRU-Capsnet Architecture">
 <p> The model consists of the following components : <br>
     <ul>
-    <li>Embedding Layer</li>
+    <li>Embedding Layer (Glove,Word2vec,Elmo) </li>
     <li>Bi-GRU Layer</li>
     <li>Capsule Layer</li>
     <li> Softmax Layer</li>
