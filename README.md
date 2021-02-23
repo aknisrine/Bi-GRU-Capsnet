@@ -2,10 +2,10 @@
 <body>
 <h3> Bi-GRU-Capsnet for student answers assessment </h3>
   
-<h1>This is a keras implementation of Bi-GRU-Capsnet for the students answers assessment.
+<h6>This is a keras implementation of Bi-GRU-Capsnet for the students answers assessment.
   
 Ait Khayi, N., & Rus, V. (2019). Bi-gru capsule networks for student answers assessment. In 2019 KDD Workshop on Deep Learning for Education (DL4Ed).
-</h1>
+</h6>
 
 <h3> Requirements </h3>
 
