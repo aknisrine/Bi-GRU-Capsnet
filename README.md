@@ -1,4 +1,12 @@
 <html>
+<head>
+  <style>
+    img{
+  height: 50%;
+  width: 50%;
+}
+  </style>
+ </head>
 <body>
 <h3> Bi-GRU-Capsnet for student answers assessment </h3>
   
