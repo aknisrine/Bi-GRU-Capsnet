@@ -16,6 +16,14 @@
 <p> Paper:  <a href="https://www.aclweb.org/anthology/W16-0520.pdf">Evaluation Dataset (DT-Grade) and Word Weighting Approach towards
 Constructed Short Answers Assessment in Tutorial Dialogue Context</a>. ACL.
 
+<h3>Model Architecture</h3>
+<img src="img_girl.jpg" alt="Bi-GRU-Capsnet Architecture">
+<p> The model consists of the following components :
+     1- Embedding layer
+     2- Bi-Gru layer
+     3- Capsule layer
+     4 Softmax layer
+
 </body>
 </html>
 
