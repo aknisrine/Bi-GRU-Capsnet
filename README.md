@@ -17,7 +17,7 @@
 Constructed Short Answers Assessment in Tutorial Dialogue Context</a>. ACL.
 
 <h3>Model Architecture</h3>
-<img src="img_girl.jpg" alt="Bi-GRU-Capsnet Architecture">
+<img src="https://i.postimg.cc/ZnxWYCBs/capsnet.jpg" alt="Bi-GRU-Capsnet Architecture">
 <p> The model consists of the following components :
      1- Embedding layer
      2- Bi-Gru layer
