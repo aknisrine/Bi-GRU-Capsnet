@@ -8,6 +8,8 @@
 
 
 <h3> Requirements </h3>
+<p>keras
+<p>tensorflow
 
 </body>
 </html>
