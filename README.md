@@ -12,6 +12,7 @@
   
 <h3> Data </h3>
 <p> DT-Grade : collected from the interaction of students with DeepTutor.
+<p> Download: <a href="http://deeptutor.memphis.edu/resources.htm"> download </a>
 <p> Paper:  <a href="https://www.aclweb.org/anthology/W16-0520.pdf">Evaluation Dataset (DT-Grade) and Word Weighting Approach towards
 Constructed Short Answers Assessment in Tutorial Dialogue Context</a>. ACL.
 
